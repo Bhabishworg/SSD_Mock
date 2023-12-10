@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PART2_CarTest" project="SSD_2023_Mock_Assign" tests="10" started="10" failures="3" errors="0" ignored="0">
+  <testsuite name="test.PART2_CarTest" time="0.045" displayname="PART2_CarTest" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]">
+    <testcase name="testCarDefaultTankSize" classname="test.PART2_CarTest" time="0.021" displayname="testCarDefaultTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultTankSize()]"/>
+    <testcase name="testCarGetMaxRange" classname="test.PART2_CarTest" time="0.004" displayname="testCarGetMaxRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarGetMaxRange()]"/>
+    <testcase name="testCarWheels" classname="test.PART2_CarTest" time="0.001" displayname="testCarWheels()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarWheels()]"/>
+    <testcase name="testCarModel" classname="test.PART2_CarTest" time="0.008" displayname="testCarModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarModel()]">
+      <failure>
+        <expected>true</expected>
+        <actual>false</actual>
+        org.opentest4j.AssertionFailedError: The model name of Car (c1) should be "Ford" ==&gt; expected: &lt;true&gt; but was: &lt;false&gt;&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)&#13;
+	at org.junit.jupiter.api.AssertTrue.failNotTrue(AssertTrue.java:63)&#13;
+	at org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:36)&#13;
+	at org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:210)&#13;
+	at test.PART2_CarTest.testCarModel(PART2_CarTest.java:30)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testCarIsElectric" classname="test.PART2_CarTest" time="0.001" displayname="testCarIsElectric()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarIsElectric()]"/>
+    <testcase name="testCarRegistration" classname="test.PART2_CarTest" time="0.003" displayname="testCarRegistration()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarRegistration()]">
+      <failure>
+        <expected>true</expected>
+        <actual>false</actual>
+        org.opentest4j.AssertionFailedError: The reg of Car (c1)  should be "FG64 12Y" ==&gt; expected: &lt;true&gt; but was: &lt;false&gt;&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)&#13;
+	at org.junit.jupiter.api.AssertTrue.failNotTrue(AssertTrue.java:63)&#13;
+	at org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:36)&#13;
+	at org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:210)&#13;
+	at test.PART2_CarTest.testCarRegistration(PART2_CarTest.java:40)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testCarAll" classname="test.PART2_CarTest" time="0.001" displayname="testCarAll()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarAll()]">
+      <failure>
+        <expected>true</expected>
+        <actual>false</actual>
+        org.opentest4j.AssertionFailedError: The model name of Car (c1) should be "Audi" ==&gt; expected: &lt;true&gt; but was: &lt;false&gt;&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)&#13;
+	at org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)&#13;
+	at org.junit.jupiter.api.AssertTrue.failNotTrue(AssertTrue.java:63)&#13;
+	at org.junit.jupiter.api.AssertTrue.assertTrue(AssertTrue.java:36)&#13;
+	at org.junit.jupiter.api.Assertions.assertTrue(Assertions.java:210)&#13;
+	at test.PART2_CarTest.testCarAll(PART2_CarTest.java:121)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+
+      </failure>
+    </testcase>
+    <testcase name="testCarSetRange" classname="test.PART2_CarTest" time="0.0" displayname="testCarSetRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarSetRange()]"/>
+    <testcase name="testCarDefaultRange" classname="test.PART2_CarTest" time="0.001" displayname="testCarDefaultRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultRange()]"/>
+    <testcase name="testTrainSetTankSize" classname="test.PART2_CarTest" time="0.001" displayname="testTrainSetTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testTrainSetTankSize()]"/>
+  </testsuite>
+</testrun>

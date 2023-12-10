@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PART1_TrainTest" project="SSD_2023_Mock_Assign" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="test.PART1_TrainTest" time="0.0" displayname="PART1_TrainTest" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]">
+    <testcase name="testTrainDefaultRange" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainDefaultRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainDefaultRange()]"/>
+    <testcase name="testTrainSetMaxRange" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainSetMaxRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainSetMaxRange()]"/>
+    <testcase name="testTrainSetPassengerCount" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainSetPassengerCount()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainSetPassengerCount()]"/>
+    <testcase name="testTrainGetTrainLen" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainGetTrainLen()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainGetTrainLen()]"/>
+    <testcase name="testTrainWheels" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainWheels()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainWheels()]"/>
+    <testcase name="testTrainDefaultPassengers" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainDefaultPassengers()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainDefaultPassengers()]"/>
+    <testcase name="testTrainModel" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainModel()]"/>
+    <testcase name="testTrainRegistration" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainRegistration()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainRegistration()]"/>
+    <testcase name="testTrainAll" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainAll()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainAll()]"/>
+    <testcase name="testTrainZeroTrainLen" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainZeroTrainLen()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainZeroTrainLen()]"/>
+  </testsuite>
+</testrun>

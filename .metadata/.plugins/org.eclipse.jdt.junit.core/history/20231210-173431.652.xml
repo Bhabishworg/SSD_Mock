@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="test" project="SSD_2023_Mock_Assign" tests="30" started="30" failures="0" errors="0" ignored="0">
+  <testsuite name="test.PART1_TrainTest" time="0.007" displayname="PART1_TrainTest" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]">
+    <testcase name="testTrainDefaultRange" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainDefaultRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainDefaultRange()]"/>
+    <testcase name="testTrainSetMaxRange" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainSetMaxRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainSetMaxRange()]"/>
+    <testcase name="testTrainSetPassengerCount" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainSetPassengerCount()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainSetPassengerCount()]"/>
+    <testcase name="testTrainGetTrainLen" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainGetTrainLen()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainGetTrainLen()]"/>
+    <testcase name="testTrainWheels" classname="test.PART1_TrainTest" time="0.001" displayname="testTrainWheels()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainWheels()]"/>
+    <testcase name="testTrainDefaultPassengers" classname="test.PART1_TrainTest" time="0.001" displayname="testTrainDefaultPassengers()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainDefaultPassengers()]"/>
+    <testcase name="testTrainModel" classname="test.PART1_TrainTest" time="0.001" displayname="testTrainModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainModel()]"/>
+    <testcase name="testTrainRegistration" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainRegistration()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainRegistration()]"/>
+    <testcase name="testTrainAll" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainAll()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainAll()]"/>
+    <testcase name="testTrainZeroTrainLen" classname="test.PART1_TrainTest" time="0.0" displayname="testTrainZeroTrainLen()" uniqueid="[engine:junit-jupiter]/[class:test.PART1_TrainTest]/[method:testTrainZeroTrainLen()]"/>
+  </testsuite>
+  <testsuite name="test.PART3_VehicleSetTest" time="0.014" displayname="PART3_VehicleSetTest" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]">
+    <testcase name="testVehicleSetRemove" classname="test.PART3_VehicleSetTest" time="0.003" displayname="testVehicleSetRemove()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetRemove()]"/>
+    <testcase name="testVehicleSetAdd" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleSetAdd()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetAdd()]"/>
+    <testcase name="testVehicleSetGetLargestRange" classname="test.PART3_VehicleSetTest" time="0.002" displayname="testVehicleSetGetLargestRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetGetLargestRange()]"/>
+    <testcase name="testVehicleContainsVehicleWithRegAdvanced" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleContainsVehicleWithRegAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithRegAdvanced()]"/>
+    <testcase name="testVehicleSetClear" classname="test.PART3_VehicleSetTest" time="0.002" displayname="testVehicleSetClear()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetClear()]"/>
+    <testcase name="testVehicleSetCount" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCount()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCount()]"/>
+    <testcase name="testVehicleContainsVehicleWithReg" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleContainsVehicleWithReg()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithReg()]"/>
+    <testcase name="testVehicleSetContains" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleSetContains()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetContains()]"/>
+    <testcase name="testVehicleSetCountVehiclesOfModel" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCountVehiclesOfModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModel()]"/>
+    <testcase name="testVehicleSetCountVehiclesOfModelAdvanced" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCountVehiclesOfModelAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModelAdvanced()]"/>
+  </testsuite>
+  <testsuite name="test.PART2_CarTest" time="0.006" displayname="PART2_CarTest" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]">
+    <testcase name="testCarDefaultTankSize" classname="test.PART2_CarTest" time="0.0" displayname="testCarDefaultTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultTankSize()]"/>
+    <testcase name="testCarGetMaxRange" classname="test.PART2_CarTest" time="0.001" displayname="testCarGetMaxRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarGetMaxRange()]"/>
+    <testcase name="testCarWheels" classname="test.PART2_CarTest" time="0.0" displayname="testCarWheels()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarWheels()]"/>
+    <testcase name="testCarModel" classname="test.PART2_CarTest" time="0.0" displayname="testCarModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarModel()]"/>
+    <testcase name="testCarIsElectric" classname="test.PART2_CarTest" time="0.002" displayname="testCarIsElectric()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarIsElectric()]"/>
+    <testcase name="testCarRegistration" classname="test.PART2_CarTest" time="0.0" displayname="testCarRegistration()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarRegistration()]"/>
+    <testcase name="testCarAll" classname="test.PART2_CarTest" time="0.0" displayname="testCarAll()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarAll()]"/>
+    <testcase name="testCarSetRange" classname="test.PART2_CarTest" time="0.001" displayname="testCarSetRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarSetRange()]"/>
+    <testcase name="testCarDefaultRange" classname="test.PART2_CarTest" time="0.0" displayname="testCarDefaultRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultRange()]"/>
+    <testcase name="testTrainSetTankSize" classname="test.PART2_CarTest" time="0.002" displayname="testTrainSetTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testTrainSetTankSize()]"/>
+  </testsuite>
+</testrun>

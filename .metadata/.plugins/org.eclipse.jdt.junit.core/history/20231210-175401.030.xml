@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PART3_VehicleSetTest" project="SSD_2023_Mock_Assign" tests="10" started="10" failures="0" errors="0" ignored="0">
+  <testsuite name="test.PART3_VehicleSetTest" time="0.044" displayname="PART3_VehicleSetTest" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]">
+    <testcase name="testVehicleSetRemove" classname="test.PART3_VehicleSetTest" time="0.03" displayname="testVehicleSetRemove()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetRemove()]"/>
+    <testcase name="testVehicleSetAdd" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleSetAdd()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetAdd()]"/>
+    <testcase name="testVehicleSetGetLargestRange" classname="test.PART3_VehicleSetTest" time="0.003" displayname="testVehicleSetGetLargestRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetGetLargestRange()]"/>
+    <testcase name="testVehicleContainsVehicleWithRegAdvanced" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleContainsVehicleWithRegAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithRegAdvanced()]"/>
+    <testcase name="testVehicleSetClear" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetClear()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetClear()]"/>
+    <testcase name="testVehicleSetCount" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCount()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCount()]"/>
+    <testcase name="testVehicleContainsVehicleWithReg" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleContainsVehicleWithReg()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithReg()]"/>
+    <testcase name="testVehicleSetContains" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetContains()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetContains()]"/>
+    <testcase name="testVehicleSetCountVehiclesOfModel" classname="test.PART3_VehicleSetTest" time="0.002" displayname="testVehicleSetCountVehiclesOfModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModel()]"/>
+    <testcase name="testVehicleSetCountVehiclesOfModelAdvanced" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleSetCountVehiclesOfModelAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModelAdvanced()]"/>
+  </testsuite>
+</testrun>

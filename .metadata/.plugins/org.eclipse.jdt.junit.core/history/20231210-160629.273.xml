@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PART2_CarTest" project="SSD_2023_Mock_Assign" tests="10" started="10" failures="0" errors="10" ignored="0">
+  <testsuite name="test.PART2_CarTest" time="0.036" displayname="PART2_CarTest" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]">
+    <testcase name="testCarDefaultTankSize" classname="test.PART2_CarTest" time="0.015" displayname="testCarDefaultTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultTankSize()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarDefaultTankSize(PART2_CarTest.java:49)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarGetMaxRange" classname="test.PART2_CarTest" time="0.002" displayname="testCarGetMaxRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarGetMaxRange()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarGetMaxRange(PART2_CarTest.java:98)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarWheels" classname="test.PART2_CarTest" time="0.003" displayname="testCarWheels()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarWheels()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The constructor Car(String, String) is not visible
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarWheels(PART2_CarTest.java:19)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarModel" classname="test.PART2_CarTest" time="0.001" displayname="testCarModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarModel()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The constructor Car(String, String) is not visible
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarModel(PART2_CarTest.java:29)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarIsElectric" classname="test.PART2_CarTest" time="0.001" displayname="testCarIsElectric()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarIsElectric()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarIsElectric(PART2_CarTest.java:87)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarRegistration" classname="test.PART2_CarTest" time="0.002" displayname="testCarRegistration()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarRegistration()]">
+      <error>java.lang.Error: Unresolved compilation problems: 
+	The constructor Car(String, String) is not visible
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarRegistration(PART2_CarTest.java:39)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarAll" classname="test.PART2_CarTest" time="0.003" displayname="testCarAll()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarAll()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarAll(PART2_CarTest.java:115)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarSetRange" classname="test.PART2_CarTest" time="0.001" displayname="testCarSetRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarSetRange()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarSetRange(PART2_CarTest.java:75)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testCarDefaultRange" classname="test.PART2_CarTest" time="0.001" displayname="testCarDefaultRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testCarDefaultRange()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testCarDefaultRange(PART2_CarTest.java:56)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testTrainSetTankSize" classname="test.PART2_CarTest" time="0.002" displayname="testTrainSetTankSize()" uniqueid="[engine:junit-jupiter]/[class:test.PART2_CarTest]/[method:testTrainSetTankSize()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	The constructor Car(String, String) is not visible
+&#13;
+	at test.PART2_CarTest.testTrainSetTankSize(PART2_CarTest.java:63)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

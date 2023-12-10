@@ -88,7 +88,7 @@ public class Train extends Vehicle {
 	public Train(int wheels, String model, String regNo) {
 		
 		// TODO PART1 : pass the correct number of wheels, model name, and regNo to the super() type constructor.
-		super(0, "", "");
+		super(wheels, model, regNo);
 		
 		// TODO PART1 : set the range and passenger count attributes to the default values specified in the javadoc comment of the method.
 		this.maxRange=200;

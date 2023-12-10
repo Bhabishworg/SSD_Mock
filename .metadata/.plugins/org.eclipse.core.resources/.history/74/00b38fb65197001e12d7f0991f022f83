@@ -1,0 +1,7 @@
+package exceptions;
+
+public class NullException {
+	public NullException() throws Exception{
+		throw new Exception();
+	}
+}

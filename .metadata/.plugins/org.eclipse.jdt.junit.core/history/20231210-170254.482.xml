@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="PART3_VehicleSetTest" project="SSD_2023_Mock_Assign" tests="10" started="10" failures="0" errors="2" ignored="0">
+  <testsuite name="test.PART3_VehicleSetTest" time="0.039" displayname="PART3_VehicleSetTest" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]">
+    <testcase name="testVehicleSetRemove" classname="test.PART3_VehicleSetTest" time="0.021" displayname="testVehicleSetRemove()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetRemove()]"/>
+    <testcase name="testVehicleSetAdd" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleSetAdd()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetAdd()]"/>
+    <testcase name="testVehicleSetGetLargestRange" classname="test.PART3_VehicleSetTest" time="0.002" displayname="testVehicleSetGetLargestRange()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetGetLargestRange()]"/>
+    <testcase name="testVehicleContainsVehicleWithRegAdvanced" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleContainsVehicleWithRegAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithRegAdvanced()]"/>
+    <testcase name="testVehicleSetClear" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetClear()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetClear()]"/>
+    <testcase name="testVehicleSetCount" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCount()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCount()]"/>
+    <testcase name="testVehicleContainsVehicleWithReg" classname="test.PART3_VehicleSetTest" time="0.001" displayname="testVehicleContainsVehicleWithReg()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleContainsVehicleWithReg()]"/>
+    <testcase name="testVehicleSetContains" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetContains()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetContains()]"/>
+    <testcase name="testVehicleSetCountVehiclesOfModel" classname="test.PART3_VehicleSetTest" time="0.008" displayname="testVehicleSetCountVehiclesOfModel()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModel()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	Unhandled exception type Exception
+&#13;
+	at vehicles.VehicleSet.countVehiclesOfModel(VehicleSet.java:85)&#13;
+	at test.PART3_VehicleSetTest.testVehicleSetCountVehiclesOfModel(PART3_VehicleSetTest.java:160)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+    <testcase name="testVehicleSetCountVehiclesOfModelAdvanced" classname="test.PART3_VehicleSetTest" time="0.0" displayname="testVehicleSetCountVehiclesOfModelAdvanced()" uniqueid="[engine:junit-jupiter]/[class:test.PART3_VehicleSetTest]/[method:testVehicleSetCountVehiclesOfModelAdvanced()]">
+      <error>java.lang.Error: Unresolved compilation problem: 
+	Unhandled exception type Exception
+&#13;
+	at vehicles.VehicleSet.countVehiclesOfModel(VehicleSet.java:85)&#13;
+	at test.PART3_VehicleSetTest.testVehicleSetCountVehiclesOfModelAdvanced(PART3_VehicleSetTest.java:182)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)&#13;
+&#13;
+</error>
+    </testcase>
+  </testsuite>
+</testrun>

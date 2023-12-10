@@ -96,7 +96,7 @@ public class Car extends Vehicle {
 	public Car(String model, String regNo) {
 		
 		// TODO PART2 : pass the correct number of wheels, model name, and regNo to the super() type constructor.
-		super(4, "", "");
+		super(4, model, regNo);
 		
 		// TODO PART2 : set the range and tank size attributes to the default values specified in the javadoc comment of the method.
 		this.range = 100;
